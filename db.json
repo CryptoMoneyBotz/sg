@@ -466,8 +466,8 @@
     },
     {
       "id": "webidl",
-      "name": "WebIDL",
-      "scope": "A language for specifications to use to define web APIs and the translation of that syntax into JavaScript.",
+      "name": "Web IDL",
+      "scope": "A syntax for specifications to use to define web APIs and the translation of that syntax into web browser programming languages such as JavaScript.",
       "editors": [
         {
           "name": "Edgar Chen",
@@ -476,19 +476,11 @@
         {
           "name": "Timothy Gu",
           "email": "timothygu99@gmail.com"
-        },
-        {
-          "name": "Ms2ger",
-          "email": null
-        },
-        {
-          "name": "Domenic Denicola",
-          "email": "d@domenic.me"
         }
       ],
       "standards": [
         {
-          "name": "WebIDL",
+          "name": "Web IDL",
           "href": "https://webidl.spec.whatwg.org/",
           "description": "The WebIDL Standard defines an interface definition language, Web IDL, that can be used to describe interfaces that are intended to be implemented in web browsers.",
           "authors": [
