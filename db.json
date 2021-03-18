@@ -482,7 +482,7 @@
         {
           "name": "Web IDL",
           "href": "https://webidl.spec.whatwg.org/",
-          "description": "The WebIDL Standard defines an interface definition language, Web IDL, that can be used to describe interfaces that are intended to be implemented in web browsers.",
+          "description": "The Web IDL Standard defines an interface definition language, Web IDL, that can be used to describe interfaces that are intended to be implemented in web browsers.",
           "authors": [
             {
               "name": "Edgar Chen",
